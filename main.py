@@ -63,9 +63,9 @@ STREAM_FLAG = True  # 是否开启流式推送
 USER_DICT_FILE = "all_user_dict_v3.pkl"  # 用户信息存储文件（包含版本）
 lock = threading.Lock()  # 用于线程锁
 
-project_info = "## ChatGPT 网页版    \n" \
+project_info = "## code Assistant 网页版    \n" \
                " Code From  " \
-               "[ChatGPT-Web](https://github.com/LiangYang666/ChatGPT-Web)  \n" \
+               "[code Assistant-Web](https://github.com/LiangYang666/ChatGPT-Web)  \n" \
                "发送`帮助`可获取帮助  \n"
 
 
